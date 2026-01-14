@@ -9,13 +9,19 @@ Bienvenido al blog sobre alfajores argentinos.
 
 ## Posts recientes
 
-{% assign valid_posts = site.posts | where_exp: "post", "post.title and post.title != '' and post.title != nil" %}
-{% for post in valid_posts limit:10 %}
+{% for post in site.posts limit:10 %}
+  {% if post.title and post.title != "" and post.title != nil %}
 - [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) - {{ post.date | date: "%d/%m/%Y" }}
+  {% endif %}
 {% endfor %}
 
-{% assign valid_posts_count = site.posts | where_exp: "post", "post.title and post.title != '' and post.title != nil" | size %}
-{% if valid_posts_count > 10 %}
-<p><a href="{{ site.baseurl }}/posts">Ver todos los posts ({{ valid_posts_count }} total)</a></p>
+{% assign valid_count = 0 %}
+{% for post in site.posts %}
+  {% if post.title and post.title != "" and post.title != nil %}
+    {% assign valid_count = valid_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+{% if valid_count > 10 %}
+<p><a href="{{ site.baseurl }}/posts">Ver todos los posts ({{ valid_count }} total)</a></p>
 {% endif %}
 

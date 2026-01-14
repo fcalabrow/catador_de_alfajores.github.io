@@ -7,6 +7,7 @@ baseurl: "/catador_de_alfajores.github.io"  # Subdirectorio donde está el sitio
 # Configuración de Jekyll
 markdown: kramdown
 highlighter: rouge
+# Sin tema - usar layouts personalizados en _layouts/
 plugins:
   - jekyll-feed
   - jekyll-sitemap

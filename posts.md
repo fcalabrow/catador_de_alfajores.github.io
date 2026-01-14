@@ -6,8 +6,9 @@ permalink: /posts/
 
 # Todos los posts
 
-{% assign valid_posts = site.posts | where_exp: "post", "post.title and post.title != '' and post.title != nil" %}
-{% for post in valid_posts %}
+{% for post in site.posts %}
+  {% if post.title and post.title != "" and post.title != nil %}
 - [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) - {{ post.date | date: "%d/%m/%Y" }}
+  {% endif %}
 {% endfor %}
 
