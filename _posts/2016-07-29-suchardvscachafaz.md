@@ -2,6 +2,7 @@
 layout: post
 title: Jóvenes y viejos
 date: 2016-07-29 19:54:08
+slug: suchardvscachafaz
 author: fcalabro
 categories:
   - Reseñas
@@ -14,7 +15,6 @@ tags:
   - review
   - suchard
 ---
-
 **Robos, engaños, conspiraciones**. Algo de eso hay en **la historia más intrigante** del circuito de los alfajores porteños. 
 
 ![Suchard vs Cachafaz](/catador_de_alfajores.github.io/assets/images/Envoltorio-1.jpg)

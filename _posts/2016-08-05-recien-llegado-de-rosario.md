@@ -2,11 +2,11 @@
 layout: post
 title: Recién llegado de Rosario
 date: 2016-08-05 01:29:38
+slug: recien-llegado-de-rosario
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 Caminaba por Almagro ejercitando ya inconscientemente el consabido hábito de curiosear de soslayo la oferta de alfajores de los kioscos cuando creí distinguir un envoltorio desconocido (así suceden estas cosas). Pero no estaba seguro y la posición del alfajor, si quería confirmar mi sospecha, me obligaba a entrar en el kiosco, con el compromiso que eso significa. No tenía ni tiempo ni plata, así que seguí mi camino. El destino, sin embargo, terco como es, me antepuso nuevamente la imagen del alfajor extraño; y esta vez, corroborando o creyendo corroborar mi apreciación, entré al kiosco dispuesto a llevármelo. Efectivamente, se trataba de un alfajor nuevo: el Sin Culpa. De manera que cargué mi SUBE y forzando al máximo las posibilidades económicas del momento le pedí a la kiosquera “uno de estos alfajores”, a lo cual respondió exclamando: “¡ah, esos son buenísimos!”. 
 
 ![](https://k50.kn3.net/0/8/9/B/6/1/726.jpg)

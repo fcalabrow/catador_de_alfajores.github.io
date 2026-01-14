@@ -2,6 +2,7 @@
 layout: post
 title: Un libro sobre alfajores
 date: 2020-03-17 02:07:30
+slug: un-libro-sobre-alfajores
 author: fcalabro
 categories:
   - Dislates
@@ -14,7 +15,6 @@ tags:
   - facundo calabró
   - libro
 ---
-
 Los pocos lectores que tuvo alguna vez este blog, especialmente en sus primeras dos versiones, al principio como un desprendimiento de Blogger (elalfajorperdido.blogspot.com), luego como una imperceptible ramificación de Wordpress (el Wordpress pago: elalfajorperdido.wordpress.com), celebrarían esta noticia, que es la consagración del escritor más marginal dentro del mundo de los escritores (que es, ya de por sí, bastante marginal), el escritor no-reconocido, el escritor sin aura: el autor de _entradas_ , de _posts_ , ése que en sociedad recibe el insípido y no menos despectivo título de _blogger_ , o aun peor: _bloguero_.
 
 Cuestiones formales: el libro se titula _En busca del alfajor perdido_ y fue editado por Planeta. Se puede conseguir [acá](https://articulo.mercadolibre.com.ar/MLA-1520722840-en-busca-del-alfajor-perdido-facundo-calabro-nuevo-_JM). Si tuviera que definirlo someramente, diría que se compone de tres enfoques: uno historiográfico, otro periodístico-cronístico, otro ensayístico-delirante.

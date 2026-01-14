@@ -2,6 +2,7 @@
 layout: post
 title: Cierren todo
 date: 2016-07-03 16:49:46
+slug: el-cachafaz-no-pertenece-a-este-mundo
 author: fcalabro
 categories:
   - Reseñas
@@ -12,7 +13,6 @@ tags:
   - havanna
   - reseña
 ---
-
 “No creía que Dios existiese hasta que conocí el Cielo”, “Mi vida se venía a pique cuando probé este alfajor”, “Este alfajor salvó mi matrimonio”. Éstas y otras frases del mismo tenor han proferido **aquéllos que probaron el alfajor Cachafaz**. 
 
 ![Envoltorio Cachafaz](https://k50.kn3.net/E/6/6/A/8/9/B7C.jpg)

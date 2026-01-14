@@ -2,11 +2,11 @@
 layout: post
 title: Pasado, presente y ¿futuro? de los caramelos Media Hora
 date: 2020-08-23 15:20:48
+slug: caramelos-media-hora
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 Los caramelos Media Hora avivan las malas lenguas, como una musa desterrada del Olimpo que en lugar de inspirar sentimientos nobles y bellos, exaltase las más feroces aversiones. Ríos de caracteres se han consagrado y se consagran cada día a retratar la vileza de su ser. ¿Pero por qué tanto ensañamiento con una simple golosina? Y es que de eso se trata. Los caramelos Media Hora —denuncian con insistencia sus detractores—no sólo se adjudican en forma ilegítima el título de golosina, sino que lo aprovecha para encubrir (diabólicamente) lo que en realidad es su más perfecta némesis: la antigolosina, el anticaramelo.
 
 En su famosa [“Carta a los fabricantes de Caramelos Media Hora”](http://paracuandolotenes.blogspot.com/2014/02/carta-los-fabricantes-de-caramelos.html#:~:text=Se%C3%B1ores%20fabricantes%20de%20los%20caramelos,autodenominados%20%E2%80%9Ccaramelos%E2%80%9D%20Media%20Hora.), el escritor Alejandro Turner asume y reelabora esta línea argumentativa. Para Turner, el “autodenominado ‘caramelo’” transgrede, punto por punto, las bases y principios de la Golosina. Su nombre: “Sólo alguien que oculta algo siniestro le pone a un caramelo por nombre un adverbio de tiempo”. Su sabor: “Sólo un grupo de mentes perturbadas puede concebir un caramelo de Anetol”. Su “peligrosa forma esférica”. Su efecto desagradable, y su función: “el caramelo Media Hora no perdura como obsequio para niños (...); circula como prenda punitiva”.

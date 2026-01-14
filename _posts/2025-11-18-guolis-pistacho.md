@@ -2,11 +2,11 @@
 layout: post
 title: Canciones de moda
 date: 2025-11-18 17:06:33
+slug: guolis-pistacho
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 Ante las modas uno puede someterse servilmente, no someterse en absoluto, o someterse a medias, como en un coqueteo.
 
 ![](/catador_de_alfajores.github.io/assets/images/WhatsApp-Image-2025-11-14-at-19.31.01-6-768x1024.jpeg)

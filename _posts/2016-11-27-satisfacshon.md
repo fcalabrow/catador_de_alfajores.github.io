@@ -2,11 +2,11 @@
 layout: post
 title: Satisfacshon
 date: 2016-11-27 11:00:58
+slug: satisfacshon
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 Hago que sí con la cabeza, en señal de aprobación. Estoy solo, pero de todas formas emito un _mmm_ audible, a tal punto la publicidad penetró en mi vida. Sin embargo, la satisfacción es real: más real, al menos, que mi afectación. Y pienso… 
 
 paraelgrid

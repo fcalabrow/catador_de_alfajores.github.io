@@ -2,6 +2,7 @@
 layout: post
 title: El flamante alfajor Havanna 70% cacao
 date: 2017-01-30 10:06:20
+slug: el-flamante-havanna-amargo
 author: fcalabro
 categories:
   - Reseñas
@@ -13,7 +14,6 @@ tags:
   - nuevo havanna
   - reseña
 ---
-
 paraelgrid
 
 Salió el nuevo alfajor Havanna 70% cacao y es todo un acontecimiento. Porque no es cualquier alfajor Havanna; **pesa 65 gramos, 10 gramos más que el Havanna tradicional, y dice tener como característica distintiva un chocolate con 70% de cacao**. 

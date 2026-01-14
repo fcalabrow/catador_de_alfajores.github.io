@@ -2,6 +2,7 @@
 layout: post
 title: Un león entre elefantes: el alfajor Marley llegó a la Argentina
 date: 2020-08-16 14:08:42
+slug: olimpico-el-alfajor-marley-llego-a-la-argentina
 author: fcalabro
 categories:
   - Reseñas
@@ -17,7 +18,6 @@ tags:
   - receta
   - uruguay
 ---
-
 El desembarco del alfajor Marley —mejor conocidos como "alfajores bajoneros"— en los kioscos argentinos es LA noticia de 2020. Se trata de un animal lo suficientemente aguerrido como para afirmarse entre los pesos pesados de nuestro ecosistema. Aunque su estructura empresarial sea mucho más modesta, cuenta con un aliado poderoso en Buenos Aires y Rosario: la omnipresente cadena Open 25, que aceptó darle un lugar protagónico en la caramelera. Y que será su embajador y profeta en la nueva tierra.
 
   * ![alfajores bajoneros marley llegaron a la argentina](/catador_de_alfajores.github.io/assets/images/1-3.jpg)

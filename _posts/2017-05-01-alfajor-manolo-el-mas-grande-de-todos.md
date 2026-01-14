@@ -2,6 +2,7 @@
 layout: post
 title: El más grande de todos
 date: 2017-05-01 10:29:55
+slug: alfajor-manolo-el-mas-grande-de-todos
 author: fcalabro
 categories:
   - Reseñas
@@ -10,7 +11,6 @@ tags:
   - Alfajor más grande de todos
   - Mar del Plata
 ---
-
 paraelgrid
 
 ![](/catador_de_alfajores.github.io/assets/images/Untitled-2.jpg)

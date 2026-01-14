@@ -2,11 +2,11 @@
 layout: post
 title: Where to buy alfajores in Australia
 date: 2018-12-07 15:26:17
+slug: where-to-buy-alfajores-in-australia
 author: fcalabro
 categories:
   - Dislates
 ---
-
 In recent years, more and more Argentine people decide to live in Australia. Although the last census, carried out in 2011, indicated that there were 12,000 Argentines living in the cities of Melbourne and Sydney, currently the number is likely to exceed 20,000, since the Australian embassy in Argentina issues 1,500 visas a year . And although the country of Oceania offers a better quality of life, it was missing something fundamental, which Argentine people miss: alfajores, yerba and dulce de leche. Until today! In this post we'll tell you [where you can buy alfajores](https://bit.ly/alfajoresinaustralia), dulce de leche, yerba and Argentine products in Melbourne, Sydney and rest of Australia 🧉 And the best part of it, you will get a 10% discount on your order using the code CATADOR. 
 
 ## [Buy alfajores Havanna in Australia](https://bit.ly/alfajoresinaustralia) and get 10% off your purchase using this code on checkout page: CATADOR

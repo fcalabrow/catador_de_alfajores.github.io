@@ -2,11 +2,11 @@
 layout: post
 title: Alfajores El Nazareno, Traslasierra
 date: 2017-01-22 18:04:03
+slug: el-nazareno-traslasierra
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 ![](/catador_de_alfajores.github.io/assets/images/elnaza-final.jpg)
 
 paraelgrid

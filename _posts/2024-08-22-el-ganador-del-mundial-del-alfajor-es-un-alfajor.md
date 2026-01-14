@@ -2,11 +2,11 @@
 layout: post
 title: El ganador del Mundial del Alfajor, ¿es un alfajor?
 date: 2024-08-22 23:32:42
+slug: el-ganador-del-mundial-del-alfajor-es-un-alfajor
 author: fcalabro
 categories:
   - Dislates
 ---
-
 El triunfo en la [tercera edición del Mundial del Alfajor](https://mundialdelalfajor.com/wp-content/uploads/2024/08/Premios-Campeonato-Mundial-del-Alfajor-2024_.pdf) de un así llamado "alfajor con cobertura de chocolate 70% con frambuesas liofilizadas, ganache semi amargo, merengue y volcán de frambuesa" suscitó un profundo debate en torno a la auténtica condición del producto galardonado. "¡Es una kremokoa millenial!", protestan todavía, heridos e hirientes, los más indignados.
 
 Pero, ¿qué es un alfajor? La historia muestra que se le ha dicho _alfajor_ a cosas muy distintas a lo largo del tiempo.

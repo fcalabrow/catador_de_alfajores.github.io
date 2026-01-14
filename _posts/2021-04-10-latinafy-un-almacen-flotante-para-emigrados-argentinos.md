@@ -2,11 +2,11 @@
 layout: post
 title: Latinafy: un almacén flotante para emigrados argentinos
 date: 2021-04-10 12:03:37
+slug: latinafy-un-almacen-flotante-para-emigrados-argentinos
 author: fcalabro
 categories:
   - Content lab
 ---
-
 La nostalgia por Argentina es anterior, incluso, a la propia existencia de Argentina; y es más, aquellos que por primera vez concibieron el sueño de una nación moderna, lo hicieron fuera de “nuestros” límites, desterrados por el gobernador Rosas. El redactor de la Constitución, Alberdi, vivió hasta el día de su muerte en el extranjero, o bien, como él decía, “en esa provincia flotante de la República Argentina que se ha compuesto de los argentinos que dejaron el suelo de su país tiranizado”. 
 
 ![](/catador_de_alfajores.github.io/assets/images/tumblr_nhl1u287ra1sb92k6o1_1280.jpg)En 2014, el Papa Francisco recibió en el Vaticano una caja de Capitán del Espacio

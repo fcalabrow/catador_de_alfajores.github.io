@@ -2,6 +2,7 @@
 layout: post
 title: El futuro llegó (hace rato)
 date: 2018-12-16 07:24:22
+slug: guolis-el-futuro-llego-hace-rato
 author: fcalabro
 categories:
   - Dislates
@@ -11,7 +12,6 @@ tags:
   - Clarín
   - guolis
 ---
-
 Cuando Havanna sintió el fantasma de la anquilosis, y notó que su clientela formaba una pirámide estacionaria, se sacudió la modorra, renovó su imagen, y lanzó el alfajor más disruptivo de su historia: el [Havanna 70% cacao](https://catadordealfajores.com/el-flamante-havanna-amargo/). Y con todo, tampoco quiso —ni le convenía— resignar el lugar privilegiado que le guardaba la tradición. Pero el mercado alfajorero, que vive en un continuo estado de ebullición, clama por novedades —como cualquier mercado que goce de buena salud—.  
 
 Primero **Cachafaz usurpó todo el simbolismo marplatense** y la trabajó a su antojo, **deslocalizando el alfajor premium** , consagrándolo y subvirtiéndolo al mismo tiempo, y reinsertándolo por último en el campo sin fronteras del kiosco. Así el segmento premium sufría, iniciado el siglo XXI, una transformación radical, que preparaba el terreno para la aparición de nuevas reformulaciones.

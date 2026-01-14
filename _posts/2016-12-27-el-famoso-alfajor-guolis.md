@@ -2,6 +2,7 @@
 layout: post
 title: El famoso alfajor Guolis
 date: 2016-12-27 23:08:36
+slug: el-famoso-alfajor-guolis
 author: fcalabro
 categories:
   - Reseñas
@@ -10,7 +11,6 @@ tags:
   - guolis
   - reseña
 ---
-
 Voy empezar quejándome: **me fastidia el envoltorio palermitano del alfajor Guolis**. Sobre todo por esos calificativos: “suave”, “intenso”, “extra-blend”. Tengan por seguro, queridos lectores, que jamás voy a tildar a un alfajor de “extra-blend”. Ni siquiera sé lo que significa, pero, en palabras del [Choncho Lazaroff](http://www.yamp.com.uy/wp-content/uploads/lazaroff-622x418.jpg), **¡canten en español, colonizados, influenciados!**
 
 En fin. [Guolis](https://catadordealfajores.com/guolis-el-futuro-llego-hace-rato/) es una marca que dentro de la comunidad alfajorera goza de un prestigio inmenso. **Son oriundos de Balcarce pero también se venden en Mar del Plata** , de manera oficial, y de modo extra-oficial, como en una especie de reventa, **en Buenos Aires**. Los venía persiguiendo desde hace tiempo y finalmente los encontré en un local muy pipí cucú de Palermo (**Gorriti y Darwin**), gracias a las indicaciones de una compañera de Facebook.

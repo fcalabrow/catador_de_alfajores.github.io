@@ -2,11 +2,11 @@
 layout: post
 title: Bimbo, mi buen amigo
 date: 2016-06-27 15:05:25
+slug: bimbo-mi-buen-amigo
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 El alfajor Bimbo es **uno de los más extraños del mercado**. Es más, un observador superfluo tal vez lo excluiría de la comunidad de **alfajores ortodoxos** (aunque a esta altura…). Y es que su envoltorio y su marca, a simple vista, nos hacen dudar. No hay ningún atractivo, más allá del **primitivo color rojo** , en su paquete. Muestra del poco empeño que le pusieron sus creadores es el hecho de que todavía se promocione como “Nuevo”, cuando por lo menos **lleva ocho años en el mercado**. Más bien lo hacen quedar como un producto **poco digno** , hecho como al pasar por una empresa que claramente se encarga de hacer pan y que tiene por logo un **oso blanco con carita de bebé**. Es fácil desdeñar al alfajor Bimbo, y evidentemente eso es lo que hace la mayoría de los kiosqueros, porque **hasta ahora nunca lo he visto en un kiosco**. A éste lo conseguí en mi mercadito, que a veces vende estas “rarezas”. No sé realmente cuál será su éxito comercial, si es que tiene alguno, pero **las pocas opiniones que hay de él en la web son excepcionales**. En efecto: **el alfajor Bimbo es una GRAN** (así, con mayúsculas) **opción**. Sobre todo si tenemos en cuenta **su precio, que no es mayor al de un Terrabusi**. Es decir, se lo puede contar entre los alfajores baratos. Sólo que, claro, es difícil encontrarlo.
 
 ![2.jpg](/catador_de_alfajores.github.io/assets/images/23.jpg)

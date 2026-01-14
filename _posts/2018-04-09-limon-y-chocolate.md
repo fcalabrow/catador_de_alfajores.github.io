@@ -2,6 +2,7 @@
 layout: post
 title: Limón y chocolate
 date: 2018-04-09 19:17:18
+slug: limon-y-chocolate
 author: fcalabro
 categories:
   - Reseñas
@@ -12,7 +13,6 @@ tags:
   - mousse de limón
   - san bernardo
 ---
-
 ![Envoltorio Esturión](/catador_de_alfajores.github.io/assets/images/Miniatura.jpg)
 
 A esta altura de los acontecimientos, ponderar un alfajor por la originalidad de su relleno es un gesto sin sentido. Porque ya no hay originalidad que valga. Hubo una década, la que va más o menos del 95 al 2005, en que los fabricantes se dedicaron con minucia a **agotar casi todas las combinaciones posibles**. Así es que todavía hoy se siguen exhumando envoltorios inauditos de variedades que nadie recuerda. La memoria los niega, pero **la evidencia material los reafirma** : resulta que hubo un alfajor **Sonrisas** , un alfajor **Terrabusi de frutos rojos** , un alfajor **Tofi de mousse de naranja**. Como si se tratara de un tiempo remoto, prehistórico, deberemos reconstruir esa década febril a base de documentos, dejando a un lado el recuerdo personal que siempre engaña. Y usar al referirnos a ese tiempo la perífrasis verbal “**debió haber sido** ”. ![alfajor esturión de mousse de limón](/catador_de_alfajores.github.io/assets/images/1.jpg) **Esturión es una empresa oriunda de San Bernardo**. La supremacía de las cadenas tipo Havanna todo a lo largo y ancho de la costa bonaerense oculta su existencia a los ojos de quienes no habitamos aquellas comarcas, pero en San Bernardo y en todo el Partido de la Costa, es **una de las marcas más antiguas y famosas**. Su fábrica data de los años 70, y tiene varios locales de venta distribuidos por las localidades aledañas. 

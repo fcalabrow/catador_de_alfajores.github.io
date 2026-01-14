@@ -2,11 +2,11 @@
 layout: post
 title: Alfajores de Puerto Madryn
 date: 2016-12-12 23:53:51
+slug: tres-alfajores-de-puerto-madryn
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 **Vivís en un táper** (o _tupper_ , dependiendo del táper que habites) es una expresión que suele soltarse a la ligera, sin pensar mucho. **¿Pero qué significa exactamente?** Que el acusado se mueve en un medio demasiado restringido como para apreciar las cosas en **sus dimensiones _reales_**. Ahora bien: detrás de una acusación tal subyace el supuesto de que _**el medio condiciona** , ante todo, **nuestra visión del mundo**_. Y si condiciona la visión del mundo, condiciona luego el arte, las leyes, la ciencia y, sobre todo, **los alfajores**. 
 
 paraelgrid

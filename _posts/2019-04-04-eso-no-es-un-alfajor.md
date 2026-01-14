@@ -2,13 +2,13 @@
 layout: post
 title: "Eso no es un alfajor"
 date: 2019-04-04 17:02:06
+slug: eso-no-es-un-alfajor
 author: fcalabro
 categories:
   - Dislates
 tags:
   - alfajor oreo
 ---
-
 Una de mis principales actividades en redes sociales consiste en divulgar las novedades del mundillo alfajorero. Éstas se suceden con bastante frecuencia, lo cual señala dos cosas: la primera, que el mundillo goza de buena salud; la segunda, que no todas sus posibilidades fueron agotadas, que todavía hay margen para la creatividad.
 
 No obstante, se introducen en nombre de la creatividad variaciones cada día más radicales, que un buen número de aficionados suele criticar agriamente invocando una misma sentencia: “eso no es un alfajor”. Es una crítica significativa, cuyas implicancias merecen ser glosadas.

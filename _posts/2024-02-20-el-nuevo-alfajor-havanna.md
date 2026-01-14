@@ -2,11 +2,11 @@
 layout: post
 title: El nuevo alfajor Havanna
 date: 2024-02-20 22:04:59
+slug: el-nuevo-alfajor-havanna
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 Escuché muchas cosas sobre este alfajor antes de probarlo. Leí opiniones, hice entrevistas, acumulé testimonios a favor, en contra, indecisos. Este último grupo era especialmente numeroso para tratarse de una materia tan "simple".
 
 ![](/catador_de_alfajores.github.io/assets/images/WhatsApp-Image-2024-02-20-at-15.19.24-1024x1024.jpeg)

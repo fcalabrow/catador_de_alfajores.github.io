@@ -2,11 +2,11 @@
 layout: post
 title: Placer asegurado
 date: 2025-08-08 20:12:06
+slug: cachafaz-72-cacao-placer-asegurado
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 Mientras el ecosistema se arroja desesperadamente al precipicio del pistacho, Cachafaz atiende su propia agenda, a su propio ritmo, con la seguridad del que sabe lo que hace y lo que quiere.
 
 ![](/catador_de_alfajores.github.io/assets/images/DSCN0026-1024x768.jpg)

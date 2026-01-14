@@ -2,6 +2,7 @@
 layout: post
 title: El alfajor pornográfico
 date: 2016-06-16 15:27:57
+slug: vauquita-el-alfajor-pornografico
 author: fcalabro
 categories:
   - Reseñas
@@ -13,7 +14,6 @@ tags:
   - review
   - vauquita
 ---
-
 El **alfajor Vauquita** es un bicho raro, medio **inclasificable**. En la teoría, se trata de un alfajor **doble** ; si bien es un poco más caro que el Jorgito, su precio se acerca más a esta clase de alfajores que a los triples del estilo del Shot o del Pepitos. En cambio, su grosor, su peso (**80 gramos**) y sus calorías (casi 300) lo ubican claramente en el estamento de los triples. 
 
 ![Envoltorio Vauquita](/catador_de_alfajores.github.io/assets/images/Envoltorio.jpg)

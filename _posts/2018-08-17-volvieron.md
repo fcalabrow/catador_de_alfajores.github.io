@@ -2,6 +2,7 @@
 layout: post
 title: ¿Volvieron? Todo sobre las obleas Champagne
 date: 2018-08-17 11:25:56
+slug: volvieron
 author: fcalabro
 categories:
   - Reseñas
@@ -18,7 +19,6 @@ tags:
   - terrabusi
   - zupay
 ---
-
 La historia de las obleas Champagne empieza en 1908, cuando el acomodaticio Melville Bagley, condescendiente con los poderosos a tal punto que había bautizado a uno de sus productos con el nombre del jefe histórico de la burguesía (las galletitas Mitre) y hacía figurar a Sarmiento en los avisos de Hesperidina, impregnado de los aires aristocráticos y afectación francesa de la clase dirigente, aunque él mismo no formara parte de ella, **creó como homenaje** a ese gran monumento a la estética liberal que acababa de inaugurarse en la calle Cerrito, **el nuevo Teatro Colón, unas obleas** (del francés _oublée_) **a las que llamó Ópera**. No sería el único producto de nombre europeizante, aunque sí el primero: más tarde llegarían las “Maitre D'Hotel”, las “Matinée”, las “Petit Beurre”. **Bagley era el brazo galletitero de la alta cultura**. Y se encargaba de hacerlo explícito.
 
 [caption id="attachment_3965" align="aligncenter" width="907"]![](/catador_de_alfajores.github.io/assets/images/1929-2.jpg) 1929[/caption] 

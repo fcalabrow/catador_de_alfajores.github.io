@@ -2,11 +2,11 @@
 layout: post
 title: Mar del Plata, sede del Festival del Alfajor
 date: 2023-04-01 14:49:40
+slug: historia-alfajor-marplatense
 author: fcalabro
 categories:
   - Dislates
 ---
-
 [Publicado originalmente en Página 12](https://www.pagina12.com.ar/536761-arranco-el-festival-del-alfajor-en-mar-del-plata)
 
 Este viernes 31 de marzo y sábado 1 de abril se va a llevar a cabo en Mar del Plata el Festival del Alfajor. De 10hs a 19hs, en la Plaza del Milenio (Av. Patricio Peralta Ramos 2148), más de 25 productores de todo el país -grandes y pequeños; jóvenes y célebres-, acercarán sus alfajores al público, que podrá disfrutar en simultáneo de espectáculos musicales y actividades para niños.

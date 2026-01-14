@@ -2,11 +2,11 @@
 layout: post
 title: Los silenciosos alfajores de San Martín
 date: 2016-08-02 00:01:50
+slug: los-silenciosos-alfajores-de-san-martin
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 Buen nombre de banda indie, ¿no? En fin.
 
 Las madres suelen decir, y a menudo aciertan, que uno encuentra las cosas cuando no las busca. Yo, por ejemplo, una vuelta guardé mucha plata en mi casa y cuando la necesité olvidé dónde estaba. La encontré meses después, devaluada casi en un 50%. Mal momento para olvidarse del escondite del dinero, la revolución de la alegría.

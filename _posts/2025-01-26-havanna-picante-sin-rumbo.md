@@ -2,11 +2,11 @@
 layout: post
 title: Sin rumbo
 date: 2025-01-26 23:45:49
+slug: havanna-picante-sin-rumbo
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 Havanna en su exorbitante trayectoria nos regala (a cambio de $2800 c/u) un nuevo tema de conversación.
 
 1\. Preguntas. ¿Por qué en la escala de ajíes hay quince niveles, cuando estos alfajores sólo abarcan dos? ¿Se espera completar la colección? ¿Un plan quinquenal de alfajores picantes? ¿O simplemente se le quiere sugerir al consumidor argentino que "pican pero no pican de verdad"?

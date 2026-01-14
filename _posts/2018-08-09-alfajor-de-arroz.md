@@ -2,6 +2,7 @@
 layout: post
 title: "Alfajor" de arroz
 date: 2018-08-09 10:52:24
+slug: alfajor-de-arroz
 author: fcalabro
 categories:
   - Reseñas
@@ -13,7 +14,6 @@ tags:
   - gallo
   - lulemuu
 ---
-
 **¿Cuál es la esencia del alfajor?** A lo largo de décadas, filósofos, intelectuales e investigadores del Conicet se han afanado por dar una respuesta satisfactoria a esta pregunta, **sin otro resultado que el fracaso**. Pero el tema, lejos de ser abandonado, suscita cada día más controversias. Hay un interés general por establecer los límites de su significado, y muchos consumidores parecieran haber asumido el compromiso moral de velar por un uso correcto, no abusivo, del término.
 
 ![Alfajor de arroz](/catador_de_alfajores.github.io/assets/images/Envoltorio-2.jpg)

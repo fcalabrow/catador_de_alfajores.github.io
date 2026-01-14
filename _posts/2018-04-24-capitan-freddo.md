@@ -2,6 +2,7 @@
 layout: post
 title: Capitán Freddo
 date: 2018-04-24 16:58:21
+slug: capitan-freddo
 author: fcalabro
 categories:
   - Reseñas
@@ -15,7 +16,6 @@ tags:
   - reseña
   - review
 ---
-
 ![Envoltorio Freddo](https://k62.kn3.net/5/D/3/C/0/4/5F6.jpg)
 
 Me acuerdo bien de la versión cinematográfica de Batman de 1997, titulada secamente [_Batman & Robin_](https://www.imdb.com/title/tt0118688/), porque **en ella aparecía una villana denominada por los doblajistas**** _Hiedra venenosa_**. El personaje, interpretado por Uma Thurman (de eso me enteraría mucho después), encandilaba a mi yo de ocho años, que había contraído el hábito de darle play al VHS una vez a la semana. Los críticos y los fanáticos dilapidaron la película; la caratularon como _la peor Batman de todos los tiempos_. A la distancia, puedo aceptar que era pésima. Pero **lo que no puedo hacer es olvidarme de Uma Thurman ni, tampoco, del otro villano, el Sr. Frío** (aka Sr. Zero y Capitán Frío), encarnado por un Arnold Schwarzenegger con rasgos extraterrestres y calva budista. [caption id="attachment_3408" align="aligncenter" width="914"]![](/catador_de_alfajores.github.io/assets/images/f10d0cc9daa30d6c3716ad7ec57d220c.jpg) Uma y Arnold[/caption] El hecho es que este señor Frío o Mr. Freeze, en su idioma original, **se veía obligado** (sepan disculpar: la trama se me aparece vagamente) **a morar en un recinto herméticamente sellado** , cuya temperatura debía ubicarse por debajo de los cero grados; en definitiva, un freezer gigante (¡caracterización onomástica la de Mr. Freeze! diría mi profesora de lengua del secundario) dominado por el azul y el plateado y adornado con témpanos y estalactitas. **Traspasar los límites del freezer o nevera** (para no desviarme del estilo mexicano-neutro) **suponía, para Arnold, la mismísima muerte**. El frío era su medio, y la escopeta de congelamiento su poder especial. Algo semejante sucede con las heladerías. **Están condenadas a vivir bajo la dictadura de la refrigeración.** Aunque se las rebusquen para acondicionar acogedores locales con aspecto de cafetería, a la postre siempre se ven conminadas, si pretenden ser consecuentes con su esencia original, **a reducirse a ese ambiente antártico** ; ellas mismas y, por extensión, todo lo que ellas decidan producir. [caption id="attachment_3419" align="alignnone" width="1019"]![](/catador_de_alfajores.github.io/assets/images/11680-h576xw1024-pdvd_002-1.jpg) El Señor Frío también tenía cosas de Hugh Hefner[/caption] Así llegamos al alfajor de Freddo. Llamarlo _helado_ sería una tautología. **Todo lo que salga de Freddo debe ser y estar helado**. La moto que me trajo los alfajores (cortesía de la marca; agradezco) me los entregó en una caja que debí colocar con urgencia en mi _nevera_ , **para preservar la cadena de frío**. (Si se me permite un excursus, debo decir que las cadenas de frío ya no son lo que eran. Hasta hace unas décadas, todavía era factible pedirle al heladero **_hielo seco_****. ¿Qué ha sido de él?** No sólo conservaban fielmente la temperatura, sino que luego se deshacían de un modo espectacular en el vaso de agua, como una pirotecnia de la naturaleza).

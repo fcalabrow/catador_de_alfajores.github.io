@@ -2,11 +2,11 @@
 layout: post
 title: Alfajor Águila Dark: todo el poder al chocolate
 date: 2022-09-12 23:41:37
+slug: alfajor-aguila-dark
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 El Águila es un género de alfajor muy especial, surgido de la polémica decisión de relegar al dulce de leche a un segundo plano o tercer plano (siendo generosos le concede 1/5 del espacio), lo que tiene repercusiones importantes en el plano de la textura. Porque en este ¿seudoalfajor? Águila dark, el clásico gradiente alfajoril (crocancia en el baño, ternura en la masa, liquidez en el dulce) es reemplazado por un bloque más o menos homogéneo de algo cercano al brownie, con lo que la definición de "minitorta" termina siendo bastante descriptiva. Sea como sea, su calidad es indiscutible.
 
 ![Alfajor Águila Minitorta Dark](/catador_de_alfajores.github.io/assets/images/2.jpg)

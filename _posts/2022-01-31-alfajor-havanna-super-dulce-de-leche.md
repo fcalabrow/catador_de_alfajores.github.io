@@ -2,11 +2,11 @@
 layout: post
 title: Nuevo alfajor Havanna Super Dulce de Leche: la reseña definitiva
 date: 2022-01-31 00:23:27
+slug: alfajor-havanna-super-dulce-de-leche
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 La celebérrima empresa marplatense sacó a relucir un nuevo producto: el alfajor Havanna Super Dulce de Leche, un alfajor de 70 gramos, apto para celíacos (sin tacc y sin gluten) hecho con harina de almendra, almendra picada e ingentes cantidades de dulce. ¿Dónde se consigue? ¿Cuánto sale? ¿Vale la pena? Las respuestas, en la siguiente video reseña.
 
 https://youtu.be/rAuVR1u5KvQ 

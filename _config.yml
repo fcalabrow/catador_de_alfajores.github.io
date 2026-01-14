@@ -1,8 +1,14 @@
 # Configuración de Jekyll para GitHub Pages
 title: Catador de alfajores
 description: Blog sobre alfajores argentinos
+
+# Configuración actual: GitHub Pages subdirectorio
 url: https://fcalabrow.github.io
 baseurl: "/catador_de_alfajores.github.io"  # Subdirectorio donde está el sitio
+
+# Cuando configures el dominio personalizado (catadordealfajores.com), cambia a:
+# url: https://catadordealfajores.com
+# baseurl: ""  # Vacío cuando uses dominio personalizado
 
 # Configuración de Jekyll
 markdown: kramdown
@@ -13,7 +19,7 @@ plugins:
   - jekyll-sitemap
 
 # Configuración de posts
-permalink: /:year/:month/:day/:title/
+permalink: /:slug/  # Coincide con estructura de WordPress (sin fecha)
 paginate: 10
 paginate_path: "/page:num/"
 

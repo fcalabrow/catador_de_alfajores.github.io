@@ -2,11 +2,11 @@
 layout: post
 title: Don't worry
 date: 2025-08-13 21:43:16
+slug: esta-todo-bien-rasta-tricolor
 author: fcalabro
 categories:
   - Reseñas
 ---
-
 Es lógico que el circuito artesanal se mueva más rápido que el industrial, y que la mayoría de las novedades provengan del primero. Sin embargo, los kioscos están viviendo una suerte de primavera renovadora, de la cual ni siquiera pesos pesados como Guaymallén y Jorgito se quedan afuera. De todas estas novedades, la más perdurable seguramente sea el alfajor bajonero, un género de alfajor nacido en Uruguay y adoptado -¿copiado?- entusiastamente por los argentinos.  
   
 ![](/catador_de_alfajores.github.io/assets/images/1.jpg)

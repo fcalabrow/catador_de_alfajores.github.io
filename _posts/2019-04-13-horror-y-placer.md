@@ -2,6 +2,7 @@
 layout: post
 title: Horror y placer
 date: 2019-04-13 09:00:31
+slug: horror-y-placer
 author: fcalabro
 categories:
   - Reseñas
@@ -11,7 +12,6 @@ tags:
   - reseña
   - review
 ---
-
 Me encantó y me fascinó el alfajor de La Goulue, relleno de dulce de leche y vino malbec, cubierto según dicen de chocolate belga, fabricado en Ciudad Jardín por una regia pyme (_su historia pueden conocerla[acá](https://www.youtube.com/watch?v=hHcjDYLt2Ac)_). Pero, hay que aclarar, se asemeja más a una obra de arte que a un alfajor. Como alfajor, ni siquiera estoy seguro de que sea bueno. Como obra de arte tiene lo suyo.
 
 ![](/catador_de_alfajores.github.io/assets/images/3-840x840.jpg)
