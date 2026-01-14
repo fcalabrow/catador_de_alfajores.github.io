@@ -13,13 +13,20 @@ baseurl: "/catador_de_alfajores.github.io"  # Subdirectorio donde está el sitio
 # Configuración de Jekyll
 markdown: kramdown
 highlighter: rouge
-# Sin tema - usar layouts personalizados en _layouts/
+
+# Desactivar tema - usar solo layouts personalizados
+# GitHub Pages aplica jekyll-theme-primer automáticamente
+# pero nuestros layouts en _layouts/ tienen prioridad
+theme: null
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
 # Configuración de posts
-permalink: /:slug/  # Coincide con estructura de WordPress (sin fecha)
+# :name extrae el slug del nombre del archivo (sin fecha y extensión)
+# Ejemplo: 2025-11-18-guolis-pistacho.md → /guolis-pistacho/
+permalink: /:name/  # Coincide con estructura de WordPress (sin fecha)
 paginate: 10
 paginate_path: "/page:num/"
 
@@ -49,4 +56,5 @@ exclude:
   - conversion.log
   - pyproject.toml
   - main.py
-
+  - add_slugs_to_posts.py
+  - fix_image_urls.py
